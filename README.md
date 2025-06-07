@@ -8,7 +8,7 @@ In the Packages Folder, you can find the .dylib of the H5GG Plugin and you will 
 
 There are 2 other files one called "H5GG.deb" which injects H5GG and the plugin straight into the .app
 
-And there is one called "Playground.deb" that injects the H5Gg Plugin and a Playground Menu .dylib with every feature to test
+And there is one called "Playground.deb" that injects the H5GG Plugin and a Playground Menu .dylib with every feature to test
 
 I would recommend you use the H5GG.deb in the Packages directory, because when you inject it using example ESign both H5GG and the plugin injects, then you can use MakeTweak to make the H5GG .dylib and reinject with the new Made .dylib and the .dylib plugin.
 
