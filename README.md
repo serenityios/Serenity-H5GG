@@ -2,7 +2,7 @@
 
 Serenity's H5GG Plugin helping Non-Jailbroken Users make a Good H5GG Script/HTML
 
-## Installation
+## Installation 
 
 In the Packages Folder, you can find the .dylib of the H5GG Plugin and you will have to inject this into the .app folder.
 
